@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+ようこそ
 <!--
 **De-ga-yon-50/De-ga-yon-50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
