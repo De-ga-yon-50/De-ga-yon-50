@@ -117,6 +117,80 @@ section {
 h2 {
   margin-bottom: 30px;
 }
+<div class="container mt-4">
+  <h1>Módulo: Montaje y mantenimiento</h1>
+  <p class="lead">Descripción del módulo...</p>
+
+  <h2 class="mt-5">Competencias Adquiridas</h2>
+  <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body">
+          <h5 class="card-title">Diagnóstico de hardware</h5>
+          <p class="card-text">Revisión de componentes físicos, fuentes, placas...</p>
+        </div>
+      </div>
+    </div>
+    <!-- Más tarjetas -->
+  </div>
+</div>
+mi-portfolio-smr/
+├── index.html
+├── montaje.html
+├── sistemas_monopuesto.html
+├── ofimatica.html
+├── redes_locales.html
+├── sistemas_red.html
+├── seguridad.html
+├── servicios_red.html
+├── aplicaciones_web.html
+├── css/
+│   └── custom.css
+├── js/
+│   └── script.js (opcional)
+└── images/
+    └── (tus imágenes)
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="index.html">Mi Portfolio SMR</a>
+    <button class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item"><a class="nav-link active" href="index.html">Inicio</a></li>
+        <!-- más enlaces -->
+      </ul>
+    </div>
+  </div>
+</nav>
+<div class="container mt-4">
+  <h1>Módulo: Montaje y mantenimiento</h1>
+  <p class="lead">Descripción del módulo...</p>
+
+  <h2 class="mt-5">Competencias Adquiridas</h2>
+  <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body">
+          <h5 class="card-title">Diagnóstico de hardware</h5>
+          <p class="card-text">Revisión de componentes físicos, fuentes, placas...</p>
+        </div>
+      </div>
+    </div>
+    <!-- Más tarjetas -->
+  </div>
+</div>
+body {
+  font-family: 'Verdana', sans-serif;
+}
+.navbar {
+  background-color: #222 !important;
+}
+.card {
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
 
 
 
