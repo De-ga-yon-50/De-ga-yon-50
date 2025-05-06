@@ -105,6 +105,19 @@ Here are some ideas to get you started:
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+section {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+h2 {
+  margin-bottom: 30px;
+}
+
 
 
 
