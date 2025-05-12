@@ -134,7 +134,7 @@ h2 {
     <!-- Más tarjetas -->
   </div>
 </div>
-mi-portfolio-smr/
+mi-portfolio-smr/npm i bootstrap@5.3.6
 ├── index.html
 ├── montaje.html
 ├── sistemas_monopuesto.html
