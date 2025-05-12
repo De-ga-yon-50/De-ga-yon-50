@@ -32,7 +32,130 @@ Here are some ideas to get you started:
   <!-- Navbar -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container">
-      <a class="navbar-brand" href="#">Mi Portafolio</a>
+      <a class="navbar-brand" href="#">Mi Portafolio</a> <html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Portafolio - De-Ga-Yon-50</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            padding: 20px;
+            text-align: center;
+            color: white;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #444;
+        }
+        nav a {
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+            transition: background 0.3s;
+        }
+        nav a:hover {
+            background-color: #555;
+        }
+        main {
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+<header>
+    <h1>De-Ga-Yon-50 - Portafolio</h1>
+</header>
+<nav>
+    <a href="index.html">Inicio</a>
+    <a href="sobre.html">Sobre mí</a>
+    <a href="proyectos.html">Proyectos</a>
+    <a href="habilidades.html">Habilidades</a>
+    <a href="educacion.html">Educación</a>
+    <a href="experiencia.html">Experiencia</a>
+    <a href="contacto.html">Contacto</a>
+    <a href="blog.html">Blog</a>
+    <a href="galeria.html">Galería</a>
+</nav>
+<main>
+    <h2>Bienvenido a mi Portafolio</h2>
+    <p>Hola, soy De-Ga-Yon-50, un entusiasta de la informática y las redes. Aquí podrás conocer más sobre mí, mis proyectos y habilidades.</p>
+</main>
+</body>
+</html>
+2.
+sobre.html
+(Sobre mí)
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sobre mí - De-Ga-Yon-50</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            padding: 20px;
+            text-align: center;
+            color: white;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #444;
+        }
+        nav a {
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+        }
+        main {
+            padding: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+<header>
+    <h1>De-Ga-Yon-50 - Sobre mí</h1>
+</header>
+<nav>
+    <a
+
+De-Ga-Yon-50 - Portafolio
+Inicio
+Sobre mí
+Proyectos
+Habilidades
+Educación
+Experiencia
+Contacto
+Blog
+Galería
+Bienvenido a mi Portafolio
+Hola, soy De-Ga-Yon-50, un entusiasta de la informática y las redes. Aquí podrás conocer más sobre mí, mis proyectos y habilidades.
+
+``` --- ### 2. `sobre.html` (Sobre mí) ```html
+De-Ga-Yon-50 - Sobre mí
+
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#menu">
         <span class="navbar-toggler-icon"></span>
       </button>
