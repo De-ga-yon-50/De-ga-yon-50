@@ -99,7 +99,7 @@ Here are some ideas to get you started:
 
   <!-- Footer -->
   <footer class="bg-dark text-white text-center py-3">
-    © 2025 - Tu Nombre. Todos los derechos reservados.
+    © 2025 - Tu Nombre.DE_GA_YON-50.
   </footer>
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
