@@ -191,6 +191,64 @@ body {
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mi Sitio Web</title>
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <!-- Estilos personalizados -->
+  <link rel="stylesheet" href="css/estilos.css" />
+</head>
+<body>
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">MiSitio</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" 
+        aria-controls="navbarNav" aria-expanded="false" aria-label="Alternar navegación">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item"><a class="nav-link" href="#inicio">Inicio</a></li>
+          <li class="nav-item"><a class="nav-link" href="#modulo1">Módulo 1</a></li>
+          <li class="nav-item"><a class="nav-link" href="#modulo2">Módulo 2</a></li>
+          <!-- Agrega más módulos según sea necesario -->
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Sección Inicio -->
+  <section id="inicio" class="container my-5">
+    <h1 class="text-center mb-4">Bienvenido a mi sitio web</h1>
+    <p class="text-center">Descripción general y bienvenida.</p>
+  </section>
+
+  <!-- Módulo 1 -->
+  <section id="modulo1" class="container my-5">
+    <h2 class="mb-4">Módulo 1: Competencias</h2>
+    <div class="row">
+      <div class="col-md-4 mb-3">
+        <div class="card h-100">
+          <div class="card-body">
+            <h5 class="card-title">Competencia 1</h5>
+            <p class="card-text">Descripción clara de la competencia del módulo 1.</p>
+          </div>
+        </div>
+      </div>
+      <!-- Añade más cards si tienes más competencias -->
+    </div>
+  </section>
+
+  <!-- Módulo 2 -->
+  <section id="modulo2" class="container my-5">
+    <h2 class="mb-4">Módulo 2: Competencias</h2>
+    <div class="row">
+      <div class="col-md-
 
 
 
