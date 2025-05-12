@@ -372,7 +372,7 @@ body {
     <h2 class="mb-4">Módulo 2: Competencias</h2>
     <div class="row">
       <div class="col-md-
-
+npm i bootstrap-icons
 
 
 
