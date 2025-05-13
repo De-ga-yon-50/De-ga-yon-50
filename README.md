@@ -23,25 +23,7 @@ Here are some ideas to get you started:
 		
 n-50 - Sobre mí
 
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#menu">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="menu">
-        <ul class="navbar-nav ms-auto">
-          <li class="nav-item"><a class="nav-link" href="#sobre-mi">Sobre mí</a></li>
-          <li class="nav-item"><a class="nav-link" href="#proyectos">Proyectos</a></li>
-          <li class="nav-item"><a class="nav-link" href="#contacto">Contacto</a></li>
-        </ul>
-      </div>
-    </div>
-  </nav>
-
-  <!-- Sección "Sobre mí" -->
-  <section id="sobre-mi" class="py-5">
-    <div class="container text-center">
-      <h2>Sobre mí</h2>
-      <p>Soy un desarrollador web apasionado con experiencia en HTML5, CSS3, JavaScript y Bootstrap.</p>
-    </div>
+    
   </section>
 
   <!-- Sección Proyectos -->
